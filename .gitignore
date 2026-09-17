@@ -41,6 +41,8 @@
 
 # Ignore build folders
 **/build
+# Ignore the nested repository metadata folder
+CustomWraithCodes/
 # Ignore platform specific build folders
 build-*/
 
