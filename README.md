@@ -40,3 +40,8 @@ Ensure the following dependencies and tools are installed:
 git clone [https://github.com/nostraxiten/CustomWraithCodes.git](https://github.com/nostraxiten/CustomWraithCodes.git)
 cd CustomWraithCodes
 geode build
+```
+
+## License
+
+MIT. See [LICENSE](LICENSE).
